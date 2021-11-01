@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="pager_light">#FFB7B7B7</color>
+	<color name="pager_dark">#FF000000</color>
+	
+	<array name="pager_Active">
+        <item>@color/pager_light</item>
+        <item>@color/pager_light</item>
+        <item>@color/pager_light</item>
+		<item>@color/pager_light</item>
+		<item>@color/pager_light</item>
+    </array>
+    <array name="pager_Unactive">
+		<item>@color/pager_dark</item>
+		<item>@color/pager_dark</item>
+		<item>@color/pager_dark</item>
+		<item>@color/pager_dark</item>
+		<item>@color/pager_dark</item>
+    </array>
+	
+</resources>

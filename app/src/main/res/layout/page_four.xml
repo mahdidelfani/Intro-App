@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:gravity="center"
+	android:background="#FFB2FDB2">
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="GitHub Channel : \n\n https://github.com/Mahdi82Delfani"
+		android:textStyle="bold|italic"
+		android:textSize="22sp"
+		android:textColor="#FF000000"
+		android:shadowRadius="1.0"
+		android:shadowDy="1.0"
+		android:shadowDx="1.0"
+		android:shadowColor="#FF404040"
+		android:gravity="center"/>
+
+</LinearLayout>
+
